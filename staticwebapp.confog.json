@@ -1,8 +1,0 @@
-{
-  "routes":[
-    {
-      "routes":"/*",
-      "alloeedRoules":["authenticated"]
-    }
-  ]
-}
