@@ -1,7 +1,8 @@
 {
   "routes": [
     {
-      "route": "index.html"
+      "route": "index.html",
+      "allowedRoules":["authenticated"]
     }
   ]
 }
